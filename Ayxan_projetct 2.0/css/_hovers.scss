@@ -1,0 +1,14 @@
+@import 'vars';
+
+.btn-orange:hover{
+    background-color: transparent;
+    border: 1px solid #fff;
+} 
+.btn-transp:hover{
+    background-color: $themeClr;
+    border: 1px solid $themeClr;
+}
+nav.top ul li a:hover{
+    color: $themeClr;
+    transition: .6s;
+}
